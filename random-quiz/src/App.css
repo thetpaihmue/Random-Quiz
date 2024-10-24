@@ -1,0 +1,24 @@
+.app-container {
+  position: relative; /* Set relative positioning for the container */
+  min-height: 100vh; /* Ensure the container takes the full viewport height */
+}
+
+.start-quiz-button {
+  position: sticky;   /* Make the button sticky */
+  bottom: 20px;       /* Distance from the bottom of the viewport */
+  right: 20px;        /* Distance from the right of the viewport */
+  position: fixed;    /* Fixed positioning for the button */
+  background-color: #007bff; /* Example button color */
+  color: white;       /* Text color */
+  border: none;       /* No border */
+  padding: 10px 20px; /* Padding */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer;    /* Cursor pointer on hover */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+  z-index: 1000;     /* Ensure it's on top */
+}
+
+/* Optional hover effect */
+.start-quiz-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

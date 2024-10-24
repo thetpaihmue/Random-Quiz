@@ -1,0 +1,8 @@
+.quitBtn{
+    display: flex;
+    justify-content: space-between;
+}
+.submitBtn{
+    float: right;
+    margin-top: 20px;
+}

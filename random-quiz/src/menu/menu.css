@@ -1,0 +1,14 @@
+.searchSort {
+    display: flex;          /* Enable Flexbox */
+    align-items: stretch;   /* Center items vertically */
+    justify-content: flex-start; /* Align items to the start horizontally */
+    gap: 10px;             /* Optional: space between items */
+  }
+  
+  .search {
+    flex: 1;               /* Optional: allow the input to grow and take up available space */
+    padding: 8px;         /* Add some padding for better appearance */
+    border: 1px solid #ccc; /* Optional: add a border */
+    border-radius: 4px;   /* Optional: rounded corners */
+  }
+  

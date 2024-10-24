@@ -1,0 +1,323 @@
+[
+  {
+    "category": "SUSHI",
+    "items": [
+      {
+        "name": "SEAWEED SALAD",
+        "price": "$5.99",
+        "description": "seaweed, agar-agar, kikurage mushrooms, red pepper, sesame seeds."
+      },
+      {
+        "name": "CALAMARI SALAD",
+        "price": "$7.99",
+        "description": "squid, bamboo shoots, kikurage mushrooms, red pepper, ginger, sesame seeds."
+      },
+      {
+        "name": "MISO SOUP",
+        "price": "$4.99",
+        "description": "tofu, scallions, seaweed in a miso broth."
+      }
+    ]
+  },
+  {
+    "category": "Small Plates",
+    "items": [
+      {
+        "name": "Tempura Shrimp",
+        "price": "$9.49",
+        "description": "tempura shrimp with sushi sauce."
+      },
+      {
+        "name": "Dumplings",
+        "price": "$7.49",
+        "description": "choice of pork, chicken, shrimp or spicy beef with Asian vegetables fried and served with Aqua sauce."
+      },
+      {
+        "name": "Edamame",
+        "price": "$5.99",
+        "description": "boiled soybeans seasoned with salt."
+      },
+      {
+        "name": "Sushi Rice",
+        "price": "$4.99",
+        "description": "premium short grain white rice and vinegar."
+      }
+    ]
+  },
+  {
+    "category": "Aqua Sushi Platters",
+    "items": [
+      {
+        "name": "Half Platter",
+        "price": "$25.99",
+        "description": "Drakes 3 most popular rolls on a shareable platter: spicy Cali, Tempura Shrimp, and Tuna Spring."
+      },
+      {
+        "name": "Full Platter",
+        "price": "$41.99",
+        "description": "Drake's 3 most popular rolls on a shareable platter: Spicy Cali, Tempura Shrimp, and Tuna Spring."
+      }
+    ]
+  },
+  {
+    "category": "Combos",
+    "items": [
+      {
+        "name": "Classic sushi, nigiri and sashimi",
+        "price": "$21.99",
+        "description": "any classic sushi with 2 orders of nigiri or sashimi, served with miso soup."
+      },
+      {
+        "name": "Specialty Sushi, Nigiri and Sashimi",
+        "price": "$25.99",
+        "description": "any specialty roll with 2 orders of nigiri or sashimi, served with miso soup."
+      },
+      {
+        "name": "Combination Platter",
+        "price": "$52.99",
+        "description": "any 2 rolls with four orders of nigiri or sashimi, served with miso soup."
+      }
+    ]
+  },
+  {
+    "category": "Specialty Sushi",
+    "items": [
+      {
+        "name": "Mardi Party Roll",
+        "price": "$13.99",
+        "description": "smoked salmon, fried cream cheese, grilled jalapeno, avocado; topped with spicy crab, sweet chili sauce, tempura crunch and scallions."
+      },
+      {
+        "name": "Eel Roll",
+        "price": "$10.99",
+        "description": "cooked eel, cucumber, avocado, seaweed, sesame seeds, sushi sauce."
+      },
+      {
+        "name": "Dragon Roll",
+        "price": "$11.99",
+        "description": "cooked eel, cucumber, seaweed, sushi sauce; wrapped in avocado and sesame seeds."
+      },
+      {
+        "name": "Fantasy Roll (spicy)",
+        "price": "$11.49",
+        "description": "avocado, seaweed, sesame seeds; topped with snow crab and spicy mayo; choice of tuna, salmon, shrimp, yellow tail or white tuna."
+      },
+      {
+        "name": "Rainbow Roll",
+        "price": "$12.99",
+        "description": "California; topped with tuna, salmon, shrimp, white tuna, and yellow tail."
+      },
+      {
+        "name": "New York Roll",
+        "price": "$13.99",
+        "description": "tuna, avocado, seaweed; topped with tuna."
+      },
+      {
+        "name": "Boston Roll",
+        "price": "$12.99",
+        "description": "salmon, avocado, seaweed; topped with salmon."
+      },
+      {
+        "name": "Tuna Lover's Roll",
+        "price": "$13.99",
+        "description": "spicy tuna, avocado, seaweed; topped with seared white tuna."
+      },
+      {
+        "name": "Soft Shell Crab Roll",
+        "price": "$12.99",
+        "description": "tempura soft shell crab, lettuce, avocado, seaweed; topped with sushi sauce and sweet chili sauce."
+      },
+      {
+        "name": "Midori Roll",
+        "price": "$11.49",
+        "description": "soy paper, tuna, salmon, avocado; topped with sushi sauce and spicy mayo."
+      },
+      {
+        "name": "Crunchy Munchy Roll",
+        "price": "$13.49",
+        "description": "fried crab, cucumber, avocado, seaweed, Sriracha; topped with tempura crunch, shrimp and sushi sauce."
+      },
+      {
+        "name": "Surf and Turf Roll",
+        "price": "$14.99",
+        "description": "crab and cream blend, spicy mayo, asparagus, seaweed; topped with avocado, seared filet mignon, Sriracha, and sushi sauce."
+      },
+      {
+        "name": "Crab Rangoon Roll",
+        "price": "$12.99",
+        "description": "crab and cream cheese blend, seaweed, tempura fried; topped with sushi sauce and sweet chili sauce."
+      },
+      {
+        "name": "Fried Scallop Roll",
+        "price": "$11.49",
+        "description": "soy paper, fried scallop, avocado; topped with red tobiko and spicy mayo."
+      },
+      {
+        "name": "Tempura Rainbow Roll",
+        "price": "$13.99",
+        "description": "tempura shrimp, avocado, spicy mayo, seaweed; topped with shrimp, salmon, white tuna, and tuna."
+      },
+      {
+        "name": "Volcano Roll",
+        "price": "$10.99",
+        "description": "California; topped with ground spicy tuna and black tobiko."
+      },
+      {
+        "name": "Chicago Roll",
+        "price": "$12.99",
+        "description": "soy paper, seared filet mignon, asparagus, scallions, cream cheese; topped with avocado, spicy mayo, and Aqua sauce."
+      },
+      {
+        "name": "Crunchy Texas Roll",
+        "price": "$13.99",
+        "description": "seared white tuna, avocado, seaweed; topped with crab, fried onion, sushi sauce, and spicy mayo."
+      },
+      {
+        "name": "Drake's Yum Yum Roll",
+        "price": "$13.99",
+        "description": "spicy crawfish, jalapeno, cucumber; topped with shrimp, seaweed salad, red tobiko, and Drake's yum yum sauce."
+      },
+      {
+        "name": "Tuna Stack",
+        "price": "$13.99",
+        "description": "spicy tuna, mango, and avocado layered on sushi rice; citrus ponzu sauce and scallions."
+      },
+      {
+        "name": "Poke Bowl",
+        "price": "$13.99",
+        "description": "choice of tuna or salmon; sushi rice, avocado, pickled radish, and carrot, jalapeno, wasabi mayo, Sriracha, wakame, citrus ponzu sauce, sesame seeds."
+      },
+      {
+        "name": "Teriyaki Chicken Roll",
+        "price": "$12.99",
+        "description": "teriyaki chicken, sushi rice, fried asparagus, cucumber, carrot, avocado, sushi sauce, Sriracha, sesame seeds."
+      }
+    ]
+  },
+  {
+    "category": "Sashimi",
+    "items": [
+      {
+        "name": "Tuna",
+        "price": "$7.99"
+      },
+      {
+        "name": "Salmon",
+        "price": "$7.99"
+      },
+      {
+        "name": "Squid",
+        "price": "$7.99"
+      },
+      {
+        "name": "Yellow Tail",
+        "price": "$8.99"
+      },
+      {
+        "name": "White Tuna",
+        "price": "$7.99"
+      },
+      {
+        "name": "Scallops",
+        "price": "$6.99"
+      }
+    ]
+  },
+  {
+    "category": "Nigiri",
+    "items": [
+      {
+        "name": "Tuna",
+        "price": "$7.99"
+      },
+      {
+        "name": "Salmon",
+        "price": "$7.99"
+      },
+      {
+        "name": "Fresh Water Eel",
+        "price": "$8.49",
+        "description": "with sesame seeds."
+      },
+      {
+        "name": "Shrimp",
+        "price": "$6.99"
+      },
+      {
+        "name": "Squid",
+        "price": "$7.99"
+      },
+      {
+        "name": "White Tuna",
+        "price": "$7.99"
+      },
+      {
+        "name": "Crab Stick",
+        "price": "$5.49"
+      },
+      {
+        "name": "Yellow Tail",
+        "price": "$8.99"
+      },
+      {
+        "name": "Flying Fish Eggs",
+        "price": "$8.49"
+      }
+    ]
+  },
+  {
+    "category": "Roll Models",
+    "items": [
+      {
+        "name": "California Roll",
+        "price": "$7.99",
+        "description": "crab, cucumber, avocado, seaweed, sushi rice, sesame seeds."
+      },
+      {
+        "name": "Spicy Cali Roll",
+        "price": "$11.99",
+        "description": "California; topped with snow crab and spicy mayo."
+      },
+      {
+        "name": "Teriyaki Salmon Roll",
+        "price": "$9.99",
+        "description": "cooked salmon, avocado, carrot, seaweed, sushi rice, sesame seeds, sushi sauce."
+      },
+      {
+        "name": "Spring Roll",
+        "price": "$9.99",
+        "description": "crab, cucumber, carrot, avocado, lettuce, rice paper, spicy mayo, spring sauce; choice of tuna, white tuna, salmon, shrimp, or eel."
+      },
+      {
+        "name": "Spicy Roll",
+        "price": "$9.99",
+        "description": "avocado, cucumber, seaweed, sushi rice, sesame seeds, spicy mayo; choice of tuna, salmon, shrimp, yellow tail, or white tuna."
+      },
+      {
+        "name": "Philly Roll",
+        "price": "$11.99",
+        "description": "cream cheese, avocado, sesame, sushi rice, sesame seeds; choice of salmon, shrimp, crab, yellow tail, or white tuna."
+      },
+      {
+        "name": "Vegetable Roll",
+        "price": "$8.99",
+        "description": "cucumber, carrot, avocado, red leaf lettuce, seaweed, sushi rice, sesame seeds."
+      },
+      {
+        "name": "Crunchy Roll",
+        "price": "$9.99",
+        "description": "tempura crunch, avocado, seaweed, sushi rice; topped with wasabi mayo and sesame seeds."
+      },
+      {
+        "name": "Fried Calamari Roll",
+        "price": "$9.99",
+        "description": "fried calamari, avocado, seaweed, sushi rice; topped with wasabi mayo and sesame seeds."
+      },
+      {
+        "name": "Tempura Shrimp Roll",
+        "price": "$9.49",
+        "description": "tempura shrimp, avocado, seaweed, sushi rice, sesame seeds; topped with sushi sauce."
+      }
+    ]
+  }
+]
